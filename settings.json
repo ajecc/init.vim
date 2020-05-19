@@ -21,7 +21,8 @@
 		  "antialiasingMode":  "greyscale",
           "colorScheme": "gruvbox",
           "cursorShape": "bar",
-          "cursorColor": "#EE4E43"
+          "cursorColor": "#EE4E43",
+	  "startingDirectory": "."
         },
         "list":
         [
